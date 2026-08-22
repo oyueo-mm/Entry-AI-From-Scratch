@@ -9,8 +9,8 @@ Entry로 인공지능과 머신러닝 알고리즘을 직접 구현해 본 것�
 ### Machine Learning
 - 선형 회귀
 - 로지스틱 회귀
-- KNN
-- 군집 알고리즘
+- KNN(분류와 회귀)
+- 군집 알고리즘(DBSCAN, K-Means, OPTICS, AGNES, DIANA, PAM, SOM, LVQ)
 - 유전 알고리즘
 
 ### Neural Network
@@ -33,7 +33,7 @@ Entry로 인공지능과 머신러닝 알고리즘을 직접 구현해 본 것�
 - 컴퓨터 비전 관련 알고리즘
 
 ### 기타
-- 활성화 함수 구현
+- 활성화 함수(GELU, LeakyReLU, Mish, SeLU, 계단함수, SoftPlus, SiLU, Sigmoid, ReLU, Tanh, ELU) 구현
 
 ## 이 저장소에 대해
 
