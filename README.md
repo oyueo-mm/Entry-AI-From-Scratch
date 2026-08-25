@@ -43,7 +43,6 @@ Entry로 다양한 인공지능 및 머신러닝 알고리즘을 직접 구현�
 * CNN
 * RNN
 * GAN
-* DCGAN
 * VAE
 * CVAE
 * β-VAE
@@ -119,7 +118,6 @@ The implementations in this repository are provided as `.ent` files. An `.ent` f
 * CNN
 * RNN
 * GAN
-* DCGAN
 * VAE
 * CVAE
 * β-VAE
