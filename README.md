@@ -18,7 +18,7 @@ Entry로 다양한 인공지능 및 머신러닝 알고리즘을 직접 구현�
 2. `Download raw file`을 눌러 파일을 다운로드합니다.
 3. [엔트리](https://playentry.org/)에 접속합니다.
 4. **작품 만들기**로 들어갑니다.
-5. 프로젝트를 불러오는 기능을 이용하여 다운로드한 `.ent` 파일을 선택합니다.
+5. **오프라인으로 작품 불러오기** 이용하여 다운로드한 `.ent` 파일을 선택합니다.
 6. 작품이 열리면 블록 코딩 화면에서 구현된 알고리즘을 확인할 수 있습니다.
 
 ---
@@ -93,7 +93,7 @@ The implementations in this repository are provided as `.ent` files. An `.ent` f
 2. Click `Download raw file` to download it.
 3. Go to [Entry](https://playentry.org/).
 4. Open the **Create** workspace.
-5. Use the project import/open function and select the downloaded `.ent` file.
+5. Use **Open Offline File** and select the downloaded `.ent` file.
 6. Once the project is loaded, you can view the implementation in the block-coding workspace.
 
 ---
