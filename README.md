@@ -4,7 +4,7 @@ Entry로 다양한 인공지능 및 머신러닝 알고리즘을 직접 구현�
 
 
 # 한국어
-## 목적
+## 목적과 동기
 이 프로젝트의 목적은 인공지능 알고리즘을 직접 구현하면서 알고리즘의 내부 동작을 이해하는 것입니다.
 
 PyTorch, TensorFlow, scikit-learn과 같은 고수준 라이브러리에 의존하지 않고, 가능한 한 알고리즘의 핵심적인 계산 과정을 Entry의 블록으로 구현합니다.
@@ -80,7 +80,7 @@ PyTorch, TensorFlow, scikit-learn과 같은 고수준 라이브러리에 의존�
 
 ---
 # English
-## Purpose
+## Purpose and Motivation
 The purpose of this project is to understand how AI/ML algorithms work internally by implementing them from scratch.
 
 Instead of relying on high-level libraries such as PyTorch, TensorFlow, or scikit-learn, the project attempts to implement the core computational processes of each algorithm using Entry's block-based programming environment whenever possible.
