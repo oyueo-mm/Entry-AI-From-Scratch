@@ -1,9 +1,18 @@
 # Entry AI From Scratch
 Entry로 다양한 인공지능 및 머신러닝 알고리즘을 직접 구현해 보는 프로젝트입니다.
 
----
+
 
 # 한국어
+## 목적
+이 프로젝트의 목적은 인공지능 알고리즘을 직접 구현하면서 알고리즘의 내부 동작을 이해하는 것입니다.
+
+PyTorch, TensorFlow, scikit-learn과 같은 고수준 라이브러리에 의존하지 않고, 가능한 한 알고리즘의 핵심적인 계산 과정을 Entry의 블록으로 구현합니다.
+
+코드를 대화형 인공지능이 아닌 스스로 구현하고 싶었고, 또 바이브코딩으로 만들지 않았음을 증명하고자 블록 코딩 사이트인 엔트리를 선택해 구현했습니다.
+
+---
+
 ## 엔트리란?
 [엔트리(Entry)](https://playentry.org/)는 블록을 조립하여 프로그램을 만드는 **블록 기반 프로그래밍 플랫폼**입니다.
 
@@ -70,14 +79,16 @@ Entry로 다양한 인공지능 및 머신러닝 알고리즘을 직접 구현�
 * Step Function
 
 ---
+# English
+## Purpose
+The purpose of this project is to understand how AI/ML algorithms work internally by implementing them from scratch.
 
-## 목적
-이 프로젝트의 목적은 인공지능 알고리즘을 단순히 사용하는 것이 아니라 **직접 구현하면서 알고리즘의 내부 동작을 이해하는 것**입니다.
+Instead of relying on high-level libraries such as PyTorch, TensorFlow, or scikit-learn, the project attempts to implement the core computational processes of each algorithm using Entry's block-based programming environment whenever possible.
 
-PyTorch, TensorFlow, scikit-learn과 같은 고수준 라이브러리에 의존하지 않고, 가능한 한 알고리즘의 핵심적인 계산 과정을 Entry의 블록으로 구현합니다.
+I wanted to implement the code myself rather than using conversational AI, and to prove that I didn’t use Vibe Coding, I chose Entry, a block-coding site, to build it.
 
 ---
-# English
+
 ## What is Entry?
 
 [Entry](https://playentry.org/) is a **block-based programming platform** where programs are created by connecting visual blocks.
@@ -143,10 +154,3 @@ The implementations in this repository are provided as `.ent` files. An `.ent` f
 * Mish
 * SeLU
 * Step Function
-
----
-
-## Purpose
-The purpose of this project is to **understand how AI algorithms work internally by implementing them from scratch**.
-
-Instead of relying on high-level libraries such as PyTorch, TensorFlow, or scikit-learn, the project attempts to implement the core computational processes of each algorithm using Entry's block-based programming environment whenever possible.
